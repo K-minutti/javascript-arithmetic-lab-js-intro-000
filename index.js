@@ -23,7 +23,7 @@ function decrement(n){
  return  n-= 1
 }
 
-function makeInt(n,10){
+function makeInt(n,){
   return n}
 
 function preserveDecimal(n){
