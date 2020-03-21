@@ -23,7 +23,7 @@ function decrement(n) {
  return  n-= 1
 }
 
-function makeInt(n, 1O) {
+function makeInt(n, 10) {
   return n
 }
 
