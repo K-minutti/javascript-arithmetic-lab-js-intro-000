@@ -16,9 +16,9 @@ return  (a / b)
 }
 
 function increment(n){
- return  n++
+ return  n+= 1
 }
 
 function decrement(n){
- return  n--
+ return  n-= 1
 }
